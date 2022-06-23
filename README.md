@@ -15,11 +15,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" alt="Numpy" height="75">
   <img src="https://cdn-icons-png.flaticon.com/512/3430/3430130.png" alt="SQL" height="75">
 </div>
-
-### Как со мной связаться:
-</p>Tg:         https://t.me/Kotvshapke1</p> Vk:        https://vk.com/kotikvash</p> Email:     dinmukhameto@mail.ru </p>
+</p>
 
 ![](https://leetcard.jacoblin.cool/Gruzd?theme=dark&font=Arimo)
+
+### Как со мной связаться:
+</p>Tg:         https://t.me/Kotvshapke1</p> Vk:        https://vk.com/kotikvash</p> Email:     dinmukhameto@mail.ru
 <!---
 Ilnur37/Ilnur37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
