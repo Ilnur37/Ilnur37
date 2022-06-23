@@ -17,7 +17,9 @@
 </div>
 
 ### Как со мной связаться:
-</p>Tg:         https://t.me/Kotvshapke1</p> Vk:        https://vk.com/kotikvash</p> Email:     dinmukhameto@mail.ru
+</p>Tg:         https://t.me/Kotvshapke1</p> Vk:        https://vk.com/kotikvash</p> Email:     dinmukhameto@mail.ru </p>
+
+![](https://leetcard.jacoblin.cool/Gruzd?theme=dark&font=Arimo)
 <!---
 Ilnur37/Ilnur37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
