@@ -7,8 +7,10 @@
 - 👀 В данный момент являюсь студентом Московского Авиационного Института на факультете "Информатика и вычислительная техника".
 
 ### Языки программирования и инструменты :
-- 🌱 Активно изучаю C++, SQL, Python
+- 🌱 Активно изучаю Java, C++, SQL
 <div>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java" height="75">
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" alt="IntelliJ" height="75">
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="75">
   <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Visual Studio" height="75">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" height="75">
