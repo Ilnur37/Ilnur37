@@ -11,6 +11,10 @@
 - Хорошо ориентируюсь в Java и C++, могу выделить знание структур и алгоритмов обработки данных, ООП, многопоточного программирования.
 - Так же знаю SQL, успешно прошел несколько курсов на "Stepik".
 - Теоретические знания основ сетевых технологий (модель ISO/OSI, стек протокол TCP/IP).
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilnur37&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ilnur37&theme=nord_dark)
+
 <div>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java" height="75">
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" alt="IntelliJ" height="75">
