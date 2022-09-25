@@ -8,18 +8,17 @@
 
 ### Языки программирования и инструменты :
 - 🌱 Осноовной язык - Java.
-- Хорошо ориентируюсь в Java и C++, могу выделить знание структур и алгоритмов обработки данных, ООП, многопоточного программирования.
-- Так же знаю SQL, успешно прошел несколько курсов на "Stepik".
-- Умею работать с базами данных, используя JDBC.
-- Знаком с Java EE.
+- Хорошо ориентируюсь в Java и C++, могу выделить знание структур и алгоритмов обработки данных, ООП, многопоточного программирования
+- Умею работать с базами данных, используя JDBC
+- Java EE
+- Spring Core
+- SQL
 - Теоретические знания основ сетевых технологий.
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilnur37&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ilnur37&theme=nord_dark)
 
 <div>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java" height="75">
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" alt="IntelliJ" height="75">
+  <img src="https://img.icons8.com/color/344/spring-logo.png" alt="Spring" height="75">
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="75">
   <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Visual Studio" height="75">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" height="75">
@@ -27,6 +26,9 @@
   <img src="https://cdn-icons-png.flaticon.com/512/3430/3430130.png" alt="SQL" height="75">
 </div>
 </p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilnur37&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ilnur37&theme=nord_dark)
 
 ### Мой LeetCode :
 ![](https://leetcard.jacoblin.cool/Gruzd?theme=dark&font=Arimo)
