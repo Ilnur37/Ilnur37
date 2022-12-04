@@ -27,8 +27,11 @@
 </div>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilnur37&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ilnur37&theme=nord_dark)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilnur37&show_icons=true&locale=en&layout=compact" alt="ilnur37" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilnur37&show_icons=true&locale=en" alt="ilnur37" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilnur37&" alt="ilnur37" /></p>
 
 ### Мой LeetCode :
 ![](https://leetcard.jacoblin.cool/Gruzd?theme=dark&font=Arimo)
